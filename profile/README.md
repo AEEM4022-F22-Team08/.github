@@ -16,7 +16,7 @@
           <li><b>Graphics Card Capabilities</b>: Intel® Iris® Xe Graphics</li>
           <li><b>Disk Size & Type</b>: 477GB SSD</li>
           <li><b>OS</b>: Windows 11 Home Version 21H2 Build 22000.1098</li>
-          <li><b>Current Software Versions</b>: Intel® Iris® Xe Graphics
+          <li><b>Current Software Versions</b>:
             <ul>
               <li>Microsoft Teams v22273.907.1654.6357</li>
               <li>Git v2.38.1</li>
@@ -39,7 +39,7 @@
           <li><b>Graphics Card Capabilities</b>: Intel® Iris® Xe Graphics</li>
           <li><b>Disk Size & Type</b>: 953.86 GB SSD</li>
           <li><b>OS</b>: Microsoft Windows 11 Home Version 10.0.22621 Build 226218</li>
-          <li><b>Current Software Versions</b>: Intel® Iris® Xe Graphics
+          <li><b>Current Software Versions</b>:
             <ul>
               <li>Microsoft Teams v22273.907.1654.6357</li>
               <li>Git v2.38.1</li>
