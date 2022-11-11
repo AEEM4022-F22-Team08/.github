@@ -18,6 +18,13 @@
           <li><b>Current Software Versions</b>:
             <ul>
               <li>Microsoft Teams v22273.907.1654.6357</li>
+              <li>Git v2.38.1</li>
+              <li>Git-Cola v4.0.2</li>
+              <li>Doxygen v1.9.5</li>
+              <li>Docker v4.14</li>
+              <li>Ubuntu WSL2 v2004.2022.1.0</li>
+              <li>UC VPN v4.10.3104.0</li>
+              <li> MiKTeX v22.10</li>
             </ul>
         </ul>
       </td>
