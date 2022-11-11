@@ -11,13 +11,6 @@
       <th align='center">Name</th>
       <th align="center">Specs</th>
      </tr>
-     <tr>
-      <td>Nate Steffen</td>
-      <td></td>
-     </tr>
-     <tr>
-      <td></td>
-      <td></td>
    </tbody>
 </table>
 
