@@ -11,7 +11,7 @@
       <td>Nate Steffen</td>
       <td>
         <ul>
-          <li>**Type:** Laptop</li>
+          <li>**Type: Laptop</li>
         </ul>
       </td>
      </tr>
