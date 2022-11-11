@@ -16,7 +16,9 @@
           <li><b>Disk Size & Type</b>: 477GB SSD</li>
           <li><b>OS</b>: Windows 11 Home Version 21H2 Build 22000.1098</li>
           <li><b>Current Software Versions</b>:
-          <li>Microsoft Teams v22273.907.1654.6357</li>
+            <ul>
+              <li>Microsoft Teams v22273.907.1654.6357</li>
+            </ul>
         </ul>
       </td>
      </tr>
