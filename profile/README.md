@@ -8,7 +8,7 @@
 <table>
   <tbody>
     <tr>
-      <th align='center">Name</th>
+      <th>Name</th>
       <th align="center">Specs</th>
      </tr>
    </tbody>
