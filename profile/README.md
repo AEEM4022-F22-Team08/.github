@@ -9,7 +9,11 @@
      </tr>
      <tr>
       <td>Nate Steffen</td>
-      <td></td>
+      <td>
+        <ul>
+          <li>**Type:** Laptop</li>
+        </ul>
+      </td>
      </tr>
      <tr>
       <td></td>
